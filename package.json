@@ -1,0 +1,29 @@
+{
+  "name": "kirankumarambati",
+  "version": "1.0.0",
+  "description": "Personal card of Kirankumar Ambati",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirankumar Ambati",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirankumarAmbati/businesscard.git"
+  },
+  "keywords": [
+    "personal",
+    "card",
+    "portfolio"
+  ],
+  "bugs": {
+    "url": "https://github.com/KirankumarAmbati/businesscard/issues"
+  },
+  "homepage": "https://github.com/KirankumarAmbati/businesscard#readme"
+}
