@@ -11,7 +11,7 @@ const options = {
 
 const data = {
   name: chalk.magenta.bold('               Kirankumar Ambati'),
-  work: chalk.cyan.bold('Senior Software Engineer @') + chalk.magenta.bold(' ValueLabs'),
+  work: chalk.cyan.bold('Frontend Engineer @') + chalk.magenta.bold(' ServiceNow'),
   twitter: chalk.cyan.bold('https://twitter.com/') + chalk.magenta.bold('_sudo_user'),
   github: chalk.cyan.bold('https://github.com/') + chalk.magenta.bold('kirankumarambati'),
   linkedin: chalk.cyan.bold('https://linkedin.com/in/') + chalk.magenta.bold('ambatikirankumar'),
